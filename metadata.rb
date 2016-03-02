@@ -1,0 +1,8 @@
+name 'demo_users'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures demo_users'
+long_description 'Installs/Configures demo_users'
+version '0.1.0'
+depends 'chef-vault'

@@ -1,0 +1,10 @@
+{
+  "id": "ymatsumoto",
+  "action": "create",
+  "comment": "Yukihiro Matsumoto",
+  "home": "/home/ymatsumoto",
+  "uid": "3001",
+  "gid": "0",
+  "shell": "/bin/bash",
+  "groups": ["wheel"]
+}

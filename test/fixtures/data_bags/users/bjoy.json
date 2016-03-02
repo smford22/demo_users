@@ -1,0 +1,10 @@
+{
+  "id": "bjoy",
+  "action": "create",
+  "comment": "Bill Joy",
+  "home": "/home/bjoy",
+  "uid": "3000",
+  "gid": "0",
+  "shell": "/bin/bash",
+  "groups": ["wheel"]
+}
